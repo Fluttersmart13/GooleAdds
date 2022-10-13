@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.2203125" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/activity_adaptive_banner.xml" value="0.18" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/activity_admob.xml" value="0.1140625" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/activity_admob_interstitial.xml" value="0.1109375" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/activity_admob_rewards.xml" value="0.1359375" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/activity_native_advance_ad.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/activity_remote_config.xml" value="0.1171875" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/activity_reward_video.xml" value="0.159375" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/ad_unified.xml" value="0.25" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/layout/dialog_ad.xml" value="0.1359375" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/menu/my.xml" value="0.15" />
+        <entry key="..\:/AndroidProject/android_firebase/app/src/main/res/xml/remote_config_params.xml" value="0.18854166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
